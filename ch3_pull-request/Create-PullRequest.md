@@ -6,31 +6,34 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 2. Delete the following line:
 
-   __Delete this line__
+3. NCG's GitHub Sandbox
 
-3. Add one or two lines here with a random text:
+4. Add one or two lines here with a random text:
+
+5. RCMS upgrade is a key project we started at NCG for our client HPE
+6. We are ensuring that we will be winning this project at any cost
 
    __...__
 
-4. Modify the following line by removing the letters that do not belong:
+7. Modify the following line by removing the letters that do not belong:
 
-   __---> The ccow jumpedd ovverr thhe mooon__
+   __---> The cow jumped over the moon__
 
-5. Commit your changes into a new _branch_:
+8. Commit your changes into a new _branch_:
 
    ![Commit Changes](img/commit.png)
 
-6. In the next screen create the pull request by completing the title and description. Note the complete markdown support that we've seen in Chapter 2 for issues:
+9. In the next screen create the pull request by completing the title and description. Note the complete markdown support that we've seen in Chapter 2 for issues:
 
    ![Create pr](img/create-pr.png)
 
    Make sure that the pull request uses base:main and not the upstream repository. This should be correct by default.
 
-7. Got to `Files changed` and note the changes (deleted lines red, added lines green). Add a comment to a line by clicking the `+`at the beginning of the line when hovering with the mouse over it. Add a comment to line nine and click `Add single comment`.
+10. Got to `Files changed` and note the changes (deleted lines red, added lines green). Add a comment to a line by clicking the `+`at the beginning of the line when hovering with the mouse over it. Add a comment to line nine and click `Add single comment`.
 
    ![Comment on changes](img/comment.png)
 
-8. Edit the file opening the menu in the top right corner and selecting `Edit file`.
+11. Edit the file opening the menu in the top right corner and selecting `Edit file`.
 
    ![Edit file](img/edit-file.png)
 
